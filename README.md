@@ -1,10 +1,10 @@
 [![HitCount](http://hits.dwyl.com/swapnanildutta/Tensorflow-Deployment.svg)](http://hits.dwyl.com/swapnanildutta/Tensorflow-Deployment)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
-<img src="https://github.com/swapnanildutta/Tensorflow-Deployment/blob/master/images/5.png" width="512" height="380">
-
 # Tensorflow-Deployment
 TensorFlow models using TensorFlow Serving and Docker, a simple web application with Flask which will serve as an interface to get predictions from the served TensorFlow model.
+
+<img src="https://github.com/swapnanildutta/Tensorflow-Deployment/blob/master/images/5.png" width="512" height="380">
 
 ## Frameworks:
 ### Flask
