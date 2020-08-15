@@ -22,7 +22,7 @@ TensorFlow Serving is a flexible, high-performance serving system for machine le
 ## Output:
 
 ### Trying with a cat's image
-![Cat Prediction](images\cat.gif)
+![Cat Prediction](https://github.com/swapnanildutta/Tensorflow-Deployment/blob/master/images/cat.gif)
 
 ### Also trying with a dog's image
-![Dog Prediction](images\dog.gif)
+![Dog Prediction](https://github.com/swapnanildutta/Tensorflow-Deployment/blob/master/images/dog.gif)
